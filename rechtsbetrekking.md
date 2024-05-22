@@ -2,15 +2,15 @@
 ## Wat is een rechtsbetrekking, oftewel de semantiek?
 Een rechtsbetrekking is een juridische relatie tussen twee rechtssubjecten, waarbij:
 
--	die relatie komt met een hoofdsoort, en
--	elke hoofdsoort heeft meer ondersoorten,
+-	die juridische relatie komt met een hoofdsoort, en
+-	elke hoofdsoort meer ondersoorten heeft,
 -	het ene rechtssubject de voordeel-kant heeft en
 -	het andere rechtssubject de nadeel-kant,
 -	betreffende het rechtsobject en
 -	geldig is onder de gespecificeerde voorwaarden.
 
 2.1	Voorbeelden van rechtsbetrekkingen
-Twee bekende voorbeelden van rechtsbetrekkingen zijn twee rechtsbetrekkingen binnen het kennisdomein voetgangerslicht.
+Twee bekende voorbeelden van rechtsbetrekkingen zijn: twee rechtsbetrekkingen binnen het kennisdomein voetgangerslicht.
 In het RVV (Reglement Verkeersregels en Verkeerstekens 1990) lezen we het volgende:
 
 **Artikel 74**
