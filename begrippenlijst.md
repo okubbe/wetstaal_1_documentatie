@@ -8,7 +8,7 @@ Een <dfn data-lt="rechten">recht</dfn> is een soort wettelijk voordeel.
 
 Een <dfn data-lt="plichten">plicht</dfn> is een soort wettelijk nadeel.
 
-Een <dfn data-lt="voordeelhouders">voordeelhouder</dfn>is het [=rechtssubject=] waaraan het wettelijk voordeel van de [=rechtsbetrekking=] is toegekend.
+Een <dfn data-lt="voordeelhouders">voordeelhouder</dfn> is het [=rechtssubject=] waaraan het wettelijk voordeel van de [=rechtsbetrekking=] is toegekend.
 
 Een <dfn data-lt="nadeelhouders">nadeelhouder</dfn> is het [=rechtssubject=] waaraan de wettelijk nadeel van de [=rechtsbetrekking=] is toegekend.
 
