@@ -2,7 +2,7 @@
 var organisationConfig = {
     nl_organisationName: "WetsTaal",
     nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
-    nl_organisationPublishURL: "https://diederikd.github.io/wetstaal_1_documentatie/",
+    nl_organisationPublishURL: "https://okubbe.github.io/wetstaal_1_documentatie/",
     logos: [{
         src: "https://raw.githubusercontent.com/diederikd/wetstaal_1_documentatie/main/media/logo150.gif",
         alt: "WetsTaal",
