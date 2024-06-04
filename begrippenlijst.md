@@ -105,7 +105,7 @@ Een <dfn data-lt="waarden">waarde</dfn> is een concreet [=gegeven=] (€1650, 12
 
 Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een [=rechtssubject=], [=rechtsbetrekking=] of [=rechtsfeit=] voorkomt, of in een specificatie van een [=rechtsobject=], of als invoergegeven of uitvoergegeven van een [=afleidingsregel=].
 
-Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het model van de wetgeving, de wetsuitvoering of juridisch scenario. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de taalsuiker.
+Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het model van de wetgeving, de wetsuitvoering of juridisch scenario. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de 'taalsuiker'.
 
 Het <dfn data-lt="Objectief recht">objectief recht</dfn> is het recht zoals beschreven in wetgeving en daarmee samenhangende hogere en lagere regelgeving.  
 
