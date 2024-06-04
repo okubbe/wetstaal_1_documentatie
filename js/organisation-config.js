@@ -9,7 +9,7 @@ var organisationConfig = {
         id: "WetsTaal",
         height: 100,
         width: 100,
-        url: "https://github.com/diederikd/wetstaal_1_documentatie",
+        url: "https://github.com/okubbe/wetstaal_1_documentatie",
     }],
 
     postProcess: [window.respecMermaid.createFigures],
