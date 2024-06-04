@@ -23,10 +23,10 @@ Een <dfn data-lt="rechtsbetrekkingen">rechtsbetrekking</dfn> is een een juridisc
 
 Een <dfn data-lt="Aanspraak – verplichting">aanspraak – verplichting</dfn> is een soort rechtsbetrekking waarbij het nadeel-houdende rechtssubject een verplichting dient na te komen, terwijl het voordeel-houdende rechtssubject aanspraak heeft op het nakomen van deze verplichting. Het nadeel-houdende rechtssubject is het actieve rechtssubject (ook wel ‘[=actieveling=]’ genoemd).
 Van de soort rechtsbetrekking aanspraak – verplichting bestaan vier ondersoorten:
-  1. [=Krachtige aanspraak – fatale verplichting=]
-  2. [=Krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling=]
-  3. [=Aanspraak na ingebrekestelling – verplichting na ingebrekestelling=]
-  4. [=Zwakke aanspraak – zwakke verplichting=]
+  1. [=krachtige aanspraak – fatale verplichting=]
+  2. [=krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling=]
+  3. [=aanspraak na ingebrekestelling – verplichting na ingebrekestelling=]
+  4. [=zwakke aanspraak – zwakke verplichting=]
 
 Een <dfn data-lt="Krachtige aanspraak – fatale verplichting">krachtige aanspraak – fatale verplichting</dfn> is een ondersoort van de soort rechtsbetrekking [=aanspraak – verplichting=]. Indien het nadeel-houdende rechtssubject zijn fatale verplichting niet nakomt, krijgt de aanspraak-houder van wetswege de optionele of verplichte bevoegdheid een boete op te leggen aan het rechtssubject dat de fatale verplichting niet is nagekomen.
 
