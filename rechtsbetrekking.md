@@ -10,6 +10,7 @@ Een rechtsbetrekking is een juridische relatie tussen twee rechtssubjecten, waar
 -	geldig is onder de gespecificeerde voorwaarden.
 
 2.1	Voorbeelden van rechtsbetrekkingen
+
 Twee bekende voorbeelden van rechtsbetrekkingen zijn te vinden binnen het kennisdomein voetgangerslicht.
 In het RVV (Reglement Verkeersregels en Verkeerstekens 1990) lezen we het volgende:
 
