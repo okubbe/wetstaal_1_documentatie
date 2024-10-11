@@ -9,10 +9,10 @@ jobs:
   build:
     name: Build
     uses: Logius-standaarden/Automatisering/.github/workflows/build.yml@snapshot-in-repo
-#  check:
-#    needs: build
-#    name: Check
-#    uses: Logius-standaarden/Automatisering/.github/workflows/check.yml@main    
+  check:
+    needs: build
+    name: Check
+    uses: Logius-standaarden/Automatisering/.github/workflows/check.yml@main    
 #  publish:
 #    needs: build
 #    name: Publish (Logius)
