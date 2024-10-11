@@ -41,7 +41,7 @@ let respecConfig = {
         companyURL: "https://www.belastingdienst.nl",
       },
     ],
-  github: "https://github.com/diederikd/wetstaal_1_documentatie",
+  github: "https://github.com/okubbe/wetstaal_1_documentatie",
 
 
   // Create PDF and link to file in header (optional):
