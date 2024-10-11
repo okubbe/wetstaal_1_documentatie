@@ -14,7 +14,7 @@ Een <dfn data-lt="nadeelhouders">nadeelhouder</dfn> is het [=rechtssubject=] waa
 
 Een <dfn data-lt="begripsdefinitie|begripsomschrijving|begripsomschrijvingen">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een [=begrip=]. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject=], [=rechtsbetrekking=], [=rechtsfeit=] of [=rechtsgevolg=].
 
-Een <dfn data-lt="rechtssubjecten">rechtssubject</dfn> rechtssubject is een drager van [=rechten=] (de voordeelkant-houder in een [=rechtsbetrekking=]) en/of [=plichten=] (de nadeelkant-houder in een [=rechtsbetrekking=]), en/of een uitvoerder van een [=rechtshandeling=], een [=feitelijke handeling met rechtsgevolg=] of een [=overtreding met rechtsgevolg=].  
+Een <dfn data-lt="rechtssubjecten">rechtssubject</dfn> rechtssubject is een drager van [=rechten=] (de voordeelkant-houder in een [=rechtsbetrekking=]) en/of [=plichten=] (de nadeelkant-houder in een [=rechtsbetrekking=]), en/of een uitvoerder van een [=rechtshandeling=], een uitvoerder van een[=feitelijke handeling met rechtsgevolg=] of een uitvoerder van een [=overtreding met rechtsgevolg=].  
 
 Een <dfn data-lt="rechtsbetrekkingen">rechtsbetrekking</dfn> is een een juridische relatie tussen twee [=rechtssubjecten=], waarbij het ene rechtssubject de [=voordeelhouder=] is en het andere rechtssubject de [=nadeelhouder=]. Een rechtsbetrekking heeft dus altijd een rechtssubject aan de voordeel-kant, een rechtssubject aan de nadeel-kant, het betreffende [=rechtsobject=] en de gespecificeerde (mogelijke samengestelde) [=voorwaarde=]. Een rechtsbetrekking is altijd gebonden aan een [=voorwaarde=] en heeft altijd een [=rechtsobject=]. Er zijn drie soorten rechtsbetrekkingen, te weten:
   1. [=Aanspraak – verplichting=]
@@ -105,7 +105,7 @@ Een <dfn data-lt="waarden">waarde</dfn> is een concreet [=gegeven=] (€1650, 12
 
 Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een [=rechtssubject=], [=rechtsbetrekking=] of [=rechtsfeit=] voorkomt, of in een specificatie van een [=rechtsobject=], of als invoergegeven of uitvoergegeven van een [=afleidingsregel=].
 
-Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het model van de wetgeving, de wetsuitvoering of juridisch scenario. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de taalsuiker.
+Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het model van de wetgeving, de wetsuitvoering of juridisch scenario. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de 'taalsuiker'.
 
 Het <dfn data-lt="Objectief recht">objectief recht</dfn> is het recht zoals beschreven in wetgeving en daarmee samenhangende hogere en lagere regelgeving.  
 
